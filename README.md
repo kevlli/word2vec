@@ -3,7 +3,7 @@ By: Kevin Li and Andy Kraja
 ### Overview 
 To use gensim's word2vec library to perform semantic analysis and implement our own version of semantle.
 ### Instructions
-Download python and the required libraries (gensim, math, random, nltk, warnings, glob, os)
+Download python and the required libraries (gensim, math, random, nltk, warnings, glob, os)  
 Clone/download this github repo.  
 Download this pretrained model using a Google News dataset (~2 GB compressed, ~3.5 GB uncompressed)
 
